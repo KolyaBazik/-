@@ -1,0 +1,15 @@
+.moki {
+     display: inline-block;
+}
+.one {
+    float: left;
+}
+
+.two {
+    float: left;
+}
+
+.three {
+    float: right;
+    display: inline-block;
+}
